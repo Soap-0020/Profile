@@ -15,7 +15,7 @@
 
 # 🔥 Projects
 <div>
-  <a href="https://github.com/Soap-0020/petsim.js">
+  <a href="https://github.com/Investment-Capital">
     <img
       src="https://avatars.githubusercontent.com/u/168366801?s=200&v=4"
       height="300"
