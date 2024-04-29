@@ -17,3 +17,5 @@
 [![wakatime](https://wakatime.com/badge/user/b604fa8a-3a51-43d9-88d7-01d18ffcc9db/project/44e3a163-8367-4287-ab1d-3bf9808aa116.svg)](https://wakatime.com/badge/user/b604fa8a-3a51-43d9-88d7-01d18ffcc9db/project/44e3a163-8367-4287-ab1d-3bf9808aa116)
 #####
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soap-0020&layout=compact&theme=dark)
+# Projects
+[![Investment Capital](https://avatars.githubusercontent.com/u/168366801?s=200&v=4)](https://github.com/Investment-Capital)
