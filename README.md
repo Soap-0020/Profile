@@ -14,7 +14,22 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 # 🔥 Projects
-[![Investment Capital](https://avatars.githubusercontent.com/u/168366801?s=200&v=4)](https://github.com/Investment-Capital)
+<div>
+  <a href="https://github.com/Soap-0020/petsim.js">
+    <img
+      src="https://avatars.githubusercontent.com/u/168366801?s=200&v=4"
+      height="300"
+    />
+  </a>
+
+  <a href="https://github.com/Soap-0020/petsim.js">
+    <img
+      src="https://github.com/Soap-0020/Soap-0020/assets/110540103/1443380d-4eab-44c1-bdf2-935114fff36e"
+      height="300"
+    />
+  </a>
+</div>
+
 
 # 📊 Data
 [![wakatime](https://wakatime.com/badge/user/b604fa8a-3a51-43d9-88d7-01d18ffcc9db/project/44e3a163-8367-4287-ab1d-3bf9808aa116.svg)](https://wakatime.com/badge/user/b604fa8a-3a51-43d9-88d7-01d18ffcc9db/project/44e3a163-8367-4287-ab1d-3bf9808aa116)
