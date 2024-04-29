@@ -13,9 +13,10 @@
 # 🖥 Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+# 🔥 Projects
+[![Investment Capital](https://avatars.githubusercontent.com/u/168366801?s=200&v=4)](https://github.com/Investment-Capital)
+
 # 📊 Data
 [![wakatime](https://wakatime.com/badge/user/b604fa8a-3a51-43d9-88d7-01d18ffcc9db/project/44e3a163-8367-4287-ab1d-3bf9808aa116.svg)](https://wakatime.com/badge/user/b604fa8a-3a51-43d9-88d7-01d18ffcc9db/project/44e3a163-8367-4287-ab1d-3bf9808aa116)
 #####
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soap-0020&layout=compact&theme=dark)
-# Projects
-[![Investment Capital](https://avatars.githubusercontent.com/u/168366801?s=200&v=4)](https://github.com/Investment-Capital)
