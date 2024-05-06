@@ -10,24 +10,6 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-# 🔥 Projects
-<div>
-  <a href="https://github.com/Investment-Capital">
-    <img
-      src="https://avatars.githubusercontent.com/u/168366801?s=200&v=4"
-      height="300"
-    />
-  </a>
-
-  <a href="https://github.com/Soap-0020/petsim.js">
-    <img
-      src="https://github.com/Soap-0020/Soap-0020/assets/110540103/1443380d-4eab-44c1-bdf2-935114fff36e"
-      height="300"
-    />
-  </a>
-</div>
-
-
 # 📊 Data
 [![wakatime](https://wakatime.com/badge/user/b604fa8a-3a51-43d9-88d7-01d18ffcc9db/project/44e3a163-8367-4287-ab1d-3bf9808aa116.svg)](https://wakatime.com/badge/user/b604fa8a-3a51-43d9-88d7-01d18ffcc9db/project/44e3a163-8367-4287-ab1d-3bf9808aa116)
 #####
